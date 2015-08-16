@@ -1,5 +1,5 @@
 
-package com.example.fishapp;
+package com.lionfish.fishapp;
 
 import android.app.Activity;
 import android.os.Bundle;

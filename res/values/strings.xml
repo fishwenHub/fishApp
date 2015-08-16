@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">fishApp</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">This is the best app in the ocean!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
